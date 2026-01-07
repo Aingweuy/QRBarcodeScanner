@@ -10,9 +10,6 @@ We require camera access to scan QR codes. Images scanned are processed locally 
 ### Storage Permission
 We require storage access to save generated QR codes or barcodes to your device gallery.
 
-### Location Permission
-Required on some Android versions to discover and connect to Wi-Fi networks via QR codes. We do not track or store your physical location.
-
 ### Wi-Fi Connection
 Required to allow the app to connect your device to Wi-Fi networks scanned from QR codes.
 
